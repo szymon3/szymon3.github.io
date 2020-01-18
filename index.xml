@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-PL</language>
     <copyright>Szymon Matuszewski</copyright>
-    <lastBuildDate>Sat, 18 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jan 2020 17:15:01 +0100</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pierwszy Post</title>
+      <link>/blog/pierwszy-post/</link>
+      <pubDate>Sat, 18 Jan 2020 17:15:01 +0100</pubDate>
+      
+      <guid>/blog/pierwszy-post/</guid>
+      <description> Z tego nic nie będzie, choć powstanie&amp;hellip; ~ Lech Roch Pawlak
+  </description>
+    </item>
     
     <item>
       <title>O mnie</title>

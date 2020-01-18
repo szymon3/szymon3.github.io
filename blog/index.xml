@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Notatnik Szymona</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on Notatnik Szymona</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-PL</language>
+    <copyright>Szymon Matuszewski</copyright>
+    <lastBuildDate>Sat, 18 Jan 2020 17:15:01 +0100</lastBuildDate>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pierwszy Post</title>
+      <link>/blog/pierwszy-post/</link>
+      <pubDate>Sat, 18 Jan 2020 17:15:01 +0100</pubDate>
+      
+      <guid>/blog/pierwszy-post/</guid>
+      <description> Z tego nic nie będzie, choć powstanie&amp;hellip; ~ Lech Roch Pawlak
+  </description>
+    </item>
+    
+  </channel>
+</rss>
